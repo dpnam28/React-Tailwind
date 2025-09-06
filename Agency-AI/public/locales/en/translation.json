@@ -1,0 +1,66 @@
+{
+  "nav-bar": {
+    "home": "Home",
+    "services": "Services",
+    "our-work": "Our-work",
+    "contact-us": "Contact us",
+    "connect": "Connect"
+  },
+  "hero": {
+    "heading1": "Turning imagination into ",
+    "heading2": "realiaty ",
+    "heading3": "by digital",
+    "trust": "Trusted by 10k+ people",
+    "description": "Creating meaningful connections and turning big ideas into interactive digital experience."
+  },
+  "company-heading": "Trusted by Leading Companies",
+  "services": {
+    "title": "How can we help",
+    "title-description": "From strategy to execution, we craft digital solutions that move your business forward.",
+    "advertising": "Advertising",
+    "advertising-description": "We turn bold ideas into powerful digital solutions that connect, engage...",
+    "content-marketing": "Content marketing",
+    "marketing-description": "We help you execute your plan and deliver results.",
+    "content-writing": "Content writing",
+    "writing-description": "We help you create a marketing strategy that drives results",
+    "social-media": "Social media",
+    "media-description": "We help you build a strong social media presence and engage with your audience."
+  },
+  "our-work": {
+    "title": "Our latest work",
+    "description": "From strategy to execution, we craft digital solutions that move your business forward.",
+    "mobile-app": "Mobile app marketing",
+    "mobile-app-description": "We turn bold ideas into powerful digital solutions that connect, engage...",
+    "dashboard-management": "Dashboard management",
+    "dashboard-management-description": "We help you execute your plan and deliver results",
+    "fitness-app": "Fitness app promotion",
+    "fitness-app-description": "We help you create a marketing strategy that drives results..."
+  },
+  "team": {
+    "title": "Meet our team",
+    "description": "We are a group of passionate individuals who love what they do. We believe in the power of creativity and innovation to drive success."
+  },
+  "contact": {
+    "title": "Reach out to us",
+    "description": "From strategy to execution, we craft digital solutions that move your business forward.",
+    "your-name": "Your name",
+    "enter-name": "Enter your name",
+    "enter-email": "Enter your email",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "footer": {
+    "description": "From strategy to execution, we craft digital solutions that move your business forward.",
+    "copyright": "Copyright © Agency AI - All rights reserved",
+    "home": "Home",
+    "services": "Services",
+    "our-work": "Our-work",
+    "contact-us": "Contact us",
+    "connect": "Connect",
+    "subscribe": "Subscribe to our newsletter",
+    "subscribe-description": "The latest news, articles, and resources, sent to your inbox weekly.",
+    "subscribe-button": "Subscribe",
+    "enter-email": "Enter your email"
+  }
+}

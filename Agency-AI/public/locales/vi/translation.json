@@ -1,0 +1,66 @@
+{
+  "nav-bar": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "our-work": "Thành phẩm",
+    "contact-us": "Liên hệ",
+    "connect": "Kết nối"
+  },
+  "hero": {
+    "heading1": "Biến trí tưởng tượng thành ",
+    "heading2": "thực tế ",
+    "heading3": "bằng kỹ thuật số ",
+    "trust": "Được tin tưởng bởi 10k+ người dùng",
+    "description": "Tạo ra những kết nối có ý nghĩa và biến những ý tưởng lớn thành trải nghiệm kỹ thuật số tương tác."
+  },
+  "company-heading": "Được tin tưởng bởi những công ty hàng đầu",
+  "services": {
+    "title": "Cách chúng tôi hỗ trợ",
+    "title-description": "Từ chiến lược đến thực hiện, chúng tôi tạo ra các giải pháp số giúp doanh nghiệp của bạn phát triển.",
+    "advertising": "Quảng cáo",
+    "advertising-description": "Chúng tôi biến những ý tưởng táo bạo thành các giải pháp kỹ thuật số mạnh mẽ",
+    "content-marketing": "Nội dung tiếp thị",
+    "marketing-description": "Chúng tôi giúp bạn thực hiện kế hoạch và mang lại kết quả.",
+    "content-writing": "Nội dung viết",
+    "writing-description": "Chúng tôi giúp bạn tạo ra một chiến lược tiếp thị mang lại kết quả",
+    "social-media": "Nền tảng xã hội",
+    "media-description": "Chúng tôi giúp bạn xây dựng sự hiện diện mạnh mẽ trên mạng xã hội và thu hút khán giả."
+  },
+  "our-work": {
+    "title": "Các sản phẩm gần nhất",
+    "description": "Từ chiến lược đến thực hiện, chúng tôi tạo ra các giải pháp số giúp doanh nghiệp của bạn phát triển.",
+    "mobile-app": "Ứng dụng tiếp thị di động",
+    "mobile-app-description": "Chúng tôi biến những ý tưởng táo bạo thành các giải pháp kỹ thuật số mạnh mẽ giúp kết nối, thu hút...",
+    "dashboard-management": "Quản lý điều khiển",
+    "dashboard-management-description": "Chúng tôi giúp bạn thực hiện kế hoạch và mang lại kết quả",
+    "fitness-app": "Quảng cáo ứng dụng tập luyện",
+    "fitness-app-description": "Chúng tôi giúp bạn tạo ra một chiến lược tiếp thị mang lại kết quả..."
+  },
+  "team": {
+    "title": "Gặp gỡ nhóm",
+    "description": "Chúng tôi là một nhóm chuyên gia trong lĩnh vực marketing kỹ thuật số. Chúng tôi luôn sẵn sàng để giúp đỡ bạn."
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "description": "Bạn muốn tìm hiểu thêm về cách chúng tôi làm việc? Hãy liên hệ với chúng tôi.",
+    "your-name": "Tên của bạn",
+    "enter-name": "Nhập tên của bạn",
+    "enter-email": "Nhập email của bạn",
+    "email": "Email",
+    "message": "Lời nhắn",
+    "submit": "Xác nhận"
+  },
+  "footer": {
+    "description": "Từ chiến lược đến thực hiện, chúng tôi tạo ra các giải pháp số giúp doanh nghiệp của bạn phát triển.",
+    "copyright": "Bản quyền © 2025 Agency AI - Bảo lưu mọi quyền.",
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "our-work": "Thành phẩm",
+    "contact-us": "Liên hệ",
+    "connect": "Kết nối",
+    "subscribe": "Đăng ký để nhận thông tin mới nhất từ chúng tôi!",
+    "subscribe-description": "Tin tức, bài viết và tài nguyên mới nhất sẽ được gửi đến hộp thư đến của bạn hàng tuần.",
+    "subscribe-button": "Đăng ký",
+    "enter-email": "Nhập email của bạn"
+  }
+}
